@@ -27,7 +27,7 @@ const Item = ({ item, onDelete }) => {
         alert("Item deleted successfully.");
         window.location.reload();
       } catch (error) {
-        // Handle error and provide feedback to the user
+        // Handle error and provide feedback to the 
       }
     }
   };
